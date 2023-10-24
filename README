@@ -1,0 +1,7 @@
+Call to SALE action API of external API
+(c) Alexander Verba 2023
+
+Example run:
+
+$ php ./index.php
+
